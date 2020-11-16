@@ -1,0 +1,97 @@
+BackRow :
+Row 0   
+Seat #: 0 {Total Drinks: 3 (Beer:1, Champagne: 0, Dairy: 0, Soda: 1, Water: 1 ; Total Snacks: 2 (BakedGoods: 1, Candy: 0, Caviar: 0, Fruit: 1) }
+Seat #: 1 {Total Drinks: 1 (Beer:1, Champagne: 0, Dairy: 0, Soda: 0, Water: 0 ; Total Snacks: 1 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 1) }
+Seat #: 2 {Total Drinks: 2 (Beer:1, Champagne: 0, Dairy: 0, Soda: 0, Water: 1 ; Total Snacks: 2 (BakedGoods: 1, Candy: 0, Caviar: 0, Fruit: 1) }
+Seat #: 3 {Total Drinks: 2 (Beer:1, Champagne: 0, Dairy: 0, Soda: 1, Water: 0 ; Total Snacks: 1 (BakedGoods: 1, Candy: 0, Caviar: 0, Fruit: 0) }
+Row 0: {Total Drinks: 8 (Beer:4, Champagne: 0, Dairy: 0, Soda: 2, Water: 2 ; Total Snacks: 6 (BakedGoods: 3, Candy: 0, Caviar: 0, Fruit: 3) }
+
+Row 1   
+Seat #: 0 {Total Drinks: 0 (Beer:0, Champagne: 0, Dairy: 0, Soda: 0, Water: 0 ; Total Snacks: 2 (BakedGoods: 1, Candy: 0, Caviar: 0, Fruit: 1) }
+Seat #: 1 {Total Drinks: 1 (Beer:0, Champagne: 0, Dairy: 0, Soda: 1, Water: 0 ; Total Snacks: 1 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 1) }
+Seat #: 2 {Total Drinks: 2 (Beer:1, Champagne: 0, Dairy: 0, Soda: 0, Water: 1 ; Total Snacks: 1 (BakedGoods: 1, Candy: 0, Caviar: 0, Fruit: 0) }
+Seat #: 3 {Total Drinks: 1 (Beer:0, Champagne: 0, Dairy: 0, Soda: 0, Water: 1 ; Total Snacks: 0 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 0) }
+Row 1: {Total Drinks: 4 (Beer:1, Champagne: 0, Dairy: 0, Soda: 1, Water: 2 ; Total Snacks: 4 (BakedGoods: 2, Candy: 0, Caviar: 0, Fruit: 2) }
+
+Row 2   
+Seat #: 0 {Total Drinks: 1 (Beer:0, Champagne: 0, Dairy: 0, Soda: 0, Water: 1 ; Total Snacks: 0 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 0) }
+Seat #: 1 {Total Drinks: 1 (Beer:0, Champagne: 0, Dairy: 0, Soda: 0, Water: 1 ; Total Snacks: 2 (BakedGoods: 1, Candy: 0, Caviar: 0, Fruit: 1) }
+Seat #: 2 {Total Drinks: 0 (Beer:0, Champagne: 0, Dairy: 0, Soda: 0, Water: 0 ; Total Snacks: 0 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 0) }
+Seat #: 3 {Total Drinks: 2 (Beer:0, Champagne: 0, Dairy: 0, Soda: 1, Water: 1 ; Total Snacks: 2 (BakedGoods: 1, Candy: 0, Caviar: 0, Fruit: 1) }
+Row 2: {Total Drinks: 4 (Beer:0, Champagne: 0, Dairy: 0, Soda: 1, Water: 3 ; Total Snacks: 4 (BakedGoods: 2, Candy: 0, Caviar: 0, Fruit: 2) }
+
+Row 3   
+Seat #: 0 {Total Drinks: 2 (Beer:1, Champagne: 0, Dairy: 0, Soda: 1, Water: 0 ; Total Snacks: 1 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 1) }
+Seat #: 1 {Total Drinks: 1 (Beer:0, Champagne: 0, Dairy: 0, Soda: 1, Water: 0 ; Total Snacks: 1 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 1) }
+Seat #: 2 {Total Drinks: 2 (Beer:1, Champagne: 0, Dairy: 0, Soda: 0, Water: 1 ; Total Snacks: 2 (BakedGoods: 1, Candy: 0, Caviar: 0, Fruit: 1) }
+Seat #: 3 {Total Drinks: 2 (Beer:1, Champagne: 0, Dairy: 0, Soda: 0, Water: 1 ; Total Snacks: 2 (BakedGoods: 1, Candy: 0, Caviar: 0, Fruit: 1) }
+Row 3: {Total Drinks: 7 (Beer:3, Champagne: 0, Dairy: 0, Soda: 2, Water: 2 ; Total Snacks: 6 (BakedGoods: 2, Candy: 0, Caviar: 0, Fruit: 4) }
+
+Row 4   
+Seat #: 0 {Total Drinks: 0 (Beer:0, Champagne: 0, Dairy: 0, Soda: 0, Water: 0 ; Total Snacks: 2 (BakedGoods: 1, Candy: 0, Caviar: 0, Fruit: 1) }
+Seat #: 1 {Total Drinks: 1 (Beer:0, Champagne: 0, Dairy: 0, Soda: 0, Water: 1 ; Total Snacks: 0 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 0) }
+Seat #: 2 {Total Drinks: 1 (Beer:0, Champagne: 0, Dairy: 0, Soda: 1, Water: 0 ; Total Snacks: 1 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 1) }
+Seat #: 3 {Total Drinks: 2 (Beer:1, Champagne: 0, Dairy: 0, Soda: 1, Water: 0 ; Total Snacks: 1 (BakedGoods: 1, Candy: 0, Caviar: 0, Fruit: 0) }
+Row 4: {Total Drinks: 4 (Beer:1, Champagne: 0, Dairy: 0, Soda: 2, Water: 1 ; Total Snacks: 4 (BakedGoods: 2, Candy: 0, Caviar: 0, Fruit: 2) }
+
+Row 5   
+Seat #: 0 {Total Drinks: 1 (Beer:1, Champagne: 0, Dairy: 0, Soda: 0, Water: 0 ; Total Snacks: 0 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 0) }
+Seat #: 1 {Total Drinks: 1 (Beer:0, Champagne: 0, Dairy: 0, Soda: 0, Water: 1 ; Total Snacks: 0 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 0) }
+Seat #: 2 {Total Drinks: 2 (Beer:0, Champagne: 0, Dairy: 0, Soda: 1, Water: 1 ; Total Snacks: 0 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 0) }
+Seat #: 3 {Total Drinks: 2 (Beer:0, Champagne: 0, Dairy: 0, Soda: 1, Water: 1 ; Total Snacks: 1 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 1) }
+Row 5: {Total Drinks: 6 (Beer:1, Champagne: 0, Dairy: 0, Soda: 2, Water: 3 ; Total Snacks: 1 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 1) }
+
+Row 6   
+Seat #: 0 {Total Drinks: 2 (Beer:0, Champagne: 0, Dairy: 0, Soda: 1, Water: 1 ; Total Snacks: 2 (BakedGoods: 1, Candy: 0, Caviar: 0, Fruit: 1) }
+Seat #: 1 {Total Drinks: 2 (Beer:1, Champagne: 0, Dairy: 0, Soda: 1, Water: 0 ; Total Snacks: 0 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 0) }
+Seat #: 2 {Total Drinks: 2 (Beer:0, Champagne: 0, Dairy: 0, Soda: 1, Water: 1 ; Total Snacks: 0 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 0) }
+Seat #: 3 {Total Drinks: 2 (Beer:0, Champagne: 0, Dairy: 0, Soda: 1, Water: 1 ; Total Snacks: 2 (BakedGoods: 1, Candy: 0, Caviar: 0, Fruit: 1) }
+Row 6: {Total Drinks: 8 (Beer:1, Champagne: 0, Dairy: 0, Soda: 4, Water: 3 ; Total Snacks: 4 (BakedGoods: 2, Candy: 0, Caviar: 0, Fruit: 2) }
+
+Row 7   
+Seat #: 0 {Total Drinks: 2 (Beer:1, Champagne: 0, Dairy: 0, Soda: 0, Water: 1 ; Total Snacks: 1 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 1) }
+Seat #: 1 {Total Drinks: 2 (Beer:1, Champagne: 0, Dairy: 0, Soda: 1, Water: 0 ; Total Snacks: 1 (BakedGoods: 1, Candy: 0, Caviar: 0, Fruit: 0) }
+Seat #: 2 {Total Drinks: 2 (Beer:1, Champagne: 0, Dairy: 0, Soda: 1, Water: 0 ; Total Snacks: 1 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 1) }
+Seat #: 3 {Total Drinks: 0 (Beer:0, Champagne: 0, Dairy: 0, Soda: 0, Water: 0 ; Total Snacks: 2 (BakedGoods: 1, Candy: 0, Caviar: 0, Fruit: 1) }
+Row 7: {Total Drinks: 6 (Beer:3, Champagne: 0, Dairy: 0, Soda: 2, Water: 1 ; Total Snacks: 5 (BakedGoods: 2, Candy: 0, Caviar: 0, Fruit: 3) }
+
+Row 8   
+Seat #: 0 {Total Drinks: 2 (Beer:1, Champagne: 0, Dairy: 0, Soda: 1, Water: 0 ; Total Snacks: 0 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 0) }
+Seat #: 1 {Total Drinks: 1 (Beer:0, Champagne: 0, Dairy: 0, Soda: 0, Water: 1 ; Total Snacks: 1 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 1) }
+Seat #: 2 {Total Drinks: 2 (Beer:1, Champagne: 0, Dairy: 0, Soda: 1, Water: 0 ; Total Snacks: 0 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 0) }
+Seat #: 3 {Total Drinks: 1 (Beer:0, Champagne: 0, Dairy: 0, Soda: 0, Water: 1 ; Total Snacks: 1 (BakedGoods: 1, Candy: 0, Caviar: 0, Fruit: 0) }
+Row 8: {Total Drinks: 6 (Beer:2, Champagne: 0, Dairy: 0, Soda: 2, Water: 2 ; Total Snacks: 2 (BakedGoods: 1, Candy: 0, Caviar: 0, Fruit: 1) }
+
+Row 9   
+Seat #: 0 {Total Drinks: 2 (Beer:0, Champagne: 0, Dairy: 0, Soda: 1, Water: 1 ; Total Snacks: 0 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 0) }
+Seat #: 1 {Total Drinks: 1 (Beer:0, Champagne: 0, Dairy: 0, Soda: 1, Water: 0 ; Total Snacks: 1 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 1) }
+Seat #: 2 {Total Drinks: 1 (Beer:1, Champagne: 0, Dairy: 0, Soda: 0, Water: 0 ; Total Snacks: 1 (BakedGoods: 1, Candy: 0, Caviar: 0, Fruit: 0) }
+Seat #: 3 {Total Drinks: 1 (Beer:0, Champagne: 0, Dairy: 0, Soda: 0, Water: 1 ; Total Snacks: 1 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 1) }
+Row 9: {Total Drinks: 5 (Beer:1, Champagne: 0, Dairy: 0, Soda: 2, Water: 2 ; Total Snacks: 3 (BakedGoods: 1, Candy: 0, Caviar: 0, Fruit: 2) }
+
+For Section: {Total Drinks: 58 (Beer:17, Champagne: 0, Dairy: 0, Soda: 20, Water: 21 ; Total Snacks: 39 (BakedGoods: 17, Candy: 0, Caviar: 0, Fruit: 22) }
+
+
+FrontRow :
+Row 0   
+Seat #: 0 {Total Drinks: 1 (Beer:0, Champagne: 0, Dairy: 1, Soda: 0, Water: 0 ; Total Snacks: 3 (BakedGoods: 0, Candy: 0, Caviar: 0, Fruit: 3) }
+Seat #: 1 {Total Drinks: 7 (Beer:3, Champagne: 3, Dairy: 0, Soda: 0, Water: 1 ; Total Snacks: 7 (BakedGoods: 3, Candy: 0, Caviar: 3, Fruit: 1) }
+Seat #: 2 {Total Drinks: 6 (Beer:1, Champagne: 3, Dairy: 1, Soda: 0, Water: 1 ; Total Snacks: 5 (BakedGoods: 2, Candy: 0, Caviar: 1, Fruit: 2) }
+Seat #: 3 {Total Drinks: 4 (Beer:0, Champagne: 3, Dairy: 1, Soda: 0, Water: 0 ; Total Snacks: 2 (BakedGoods: 0, Candy: 0, Caviar: 1, Fruit: 1) }
+Row 0: {Total Drinks: 18 (Beer:4, Champagne: 9, Dairy: 3, Soda: 0, Water: 2 ; Total Snacks: 17 (BakedGoods: 5, Candy: 0, Caviar: 5, Fruit: 7) }
+
+Row 1   
+Seat #: 0 {Total Drinks: 2 (Beer:1, Champagne: 0, Dairy: 1, Soda: 0, Water: 0 ; Total Snacks: 6 (BakedGoods: 2, Candy: 0, Caviar: 1, Fruit: 3) }
+Seat #: 1 {Total Drinks: 1 (Beer:0, Champagne: 0, Dairy: 0, Soda: 0, Water: 1 ; Total Snacks: 4 (BakedGoods: 1, Candy: 0, Caviar: 2, Fruit: 1) }
+Seat #: 2 {Total Drinks: 3 (Beer:0, Champagne: 0, Dairy: 2, Soda: 0, Water: 1 ; Total Snacks: 3 (BakedGoods: 0, Candy: 0, Caviar: 2, Fruit: 1) }
+Seat #: 3 {Total Drinks: 8 (Beer:3, Champagne: 3, Dairy: 1, Soda: 0, Water: 1 ; Total Snacks: 5 (BakedGoods: 1, Candy: 0, Caviar: 1, Fruit: 3) }
+Row 1: {Total Drinks: 14 (Beer:4, Champagne: 3, Dairy: 4, Soda: 0, Water: 3 ; Total Snacks: 18 (BakedGoods: 4, Candy: 0, Caviar: 6, Fruit: 8) }
+
+Row 2   
+Seat #: 0 {Total Drinks: 2 (Beer:1, Champagne: 0, Dairy: 0, Soda: 0, Water: 1 ; Total Snacks: 6 (BakedGoods: 1, Candy: 0, Caviar: 3, Fruit: 2) }
+Seat #: 1 {Total Drinks: 2 (Beer:1, Champagne: 1, Dairy: 0, Soda: 0, Water: 0 ; Total Snacks: 5 (BakedGoods: 0, Candy: 0, Caviar: 3, Fruit: 2) }
+Seat #: 2 {Total Drinks: 6 (Beer:2, Champagne: 3, Dairy: 1, Soda: 0, Water: 0 ; Total Snacks: 6 (BakedGoods: 3, Candy: 0, Caviar: 1, Fruit: 2) }
+Seat #: 3 {Total Drinks: 4 (Beer:2, Champagne: 0, Dairy: 2, Soda: 0, Water: 0 ; Total Snacks: 4 (BakedGoods: 2, Candy: 0, Caviar: 0, Fruit: 2) }
+Row 2: {Total Drinks: 14 (Beer:6, Champagne: 4, Dairy: 3, Soda: 0, Water: 1 ; Total Snacks: 21 (BakedGoods: 6, Candy: 0, Caviar: 7, Fruit: 8) }
+
+For Section: {Total Drinks: 46 (Beer:14, Champagne: 16, Dairy: 10, Soda: 0, Water: 6 ; Total Snacks: 56 (BakedGoods: 15, Candy: 0, Caviar: 18, Fruit: 23) }

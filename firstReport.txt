@@ -1,0 +1,97 @@
+BackRow :
+Row 0   
+Seat #: 0 {Total Drinks Cost: $28.47 (Beer:$14.99, Champagne: $0.00, Dairy: $0.00, Soda: $7.49, Water: $5.99 ; Total Snacks Cost: $16.48 (BakedGoods: $8.49, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+Seat #: 1 {Total Drinks Cost: $14.99 (Beer:$14.99, Champagne: $0.00, Dairy: $0.00, Soda: $0.00, Water: $0.00 ; Total Snacks Cost: $7.99 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+Seat #: 2 {Total Drinks Cost: $20.98 (Beer:$14.99, Champagne: $0.00, Dairy: $0.00, Soda: $0.00, Water: $5.99 ; Total Snacks Cost: $16.48 (BakedGoods: $8.49, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+Seat #: 3 {Total Drinks Cost: $22.48 (Beer:$14.99, Champagne: $0.00, Dairy: $0.00, Soda: $7.49, Water: $0.00 ; Total Snacks Cost: $8.49 (BakedGoods: $8.49, Candy: $0.00, Caviar: $0.00, Fruit: $0.00) }
+Row 0: {Total Drinks Cost: $86.92 (Beer:$59.96, Champagne: $0.00, Dairy: $0.00, Soda: $14.98, Water: $11.98 ; Total Snacks Cost: $49.44 (BakedGoods: $25.47, Candy: $0.00, Caviar: $0.00, Fruit: $23.97) }
+
+Row 1   
+Seat #: 0 {Total Drinks Cost: $0.00 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $0.00, Water: $0.00 ; Total Snacks Cost: $16.48 (BakedGoods: $8.49, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+Seat #: 1 {Total Drinks Cost: $7.49 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $7.49, Water: $0.00 ; Total Snacks Cost: $7.99 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+Seat #: 2 {Total Drinks Cost: $20.98 (Beer:$14.99, Champagne: $0.00, Dairy: $0.00, Soda: $0.00, Water: $5.99 ; Total Snacks Cost: $8.49 (BakedGoods: $8.49, Candy: $0.00, Caviar: $0.00, Fruit: $0.00) }
+Seat #: 3 {Total Drinks Cost: $5.99 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $0.00, Water: $5.99 ; Total Snacks Cost: $0.00 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $0.00) }
+Row 1: {Total Drinks Cost: $34.46 (Beer:$14.99, Champagne: $0.00, Dairy: $0.00, Soda: $7.49, Water: $11.98 ; Total Snacks Cost: $32.96 (BakedGoods: $16.98, Candy: $0.00, Caviar: $0.00, Fruit: $15.98) }
+
+Row 2   
+Seat #: 0 {Total Drinks Cost: $5.99 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $0.00, Water: $5.99 ; Total Snacks Cost: $0.00 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $0.00) }
+Seat #: 1 {Total Drinks Cost: $5.99 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $0.00, Water: $5.99 ; Total Snacks Cost: $16.48 (BakedGoods: $8.49, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+Seat #: 2 {Total Drinks Cost: $0.00 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $0.00, Water: $0.00 ; Total Snacks Cost: $0.00 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $0.00) }
+Seat #: 3 {Total Drinks Cost: $13.48 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $7.49, Water: $5.99 ; Total Snacks Cost: $16.48 (BakedGoods: $8.49, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+Row 2: {Total Drinks Cost: $25.46 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $7.49, Water: $17.97 ; Total Snacks Cost: $32.96 (BakedGoods: $16.98, Candy: $0.00, Caviar: $0.00, Fruit: $15.98) }
+
+Row 3   
+Seat #: 0 {Total Drinks Cost: $22.48 (Beer:$14.99, Champagne: $0.00, Dairy: $0.00, Soda: $7.49, Water: $0.00 ; Total Snacks Cost: $7.99 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+Seat #: 1 {Total Drinks Cost: $7.49 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $7.49, Water: $0.00 ; Total Snacks Cost: $7.99 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+Seat #: 2 {Total Drinks Cost: $20.98 (Beer:$14.99, Champagne: $0.00, Dairy: $0.00, Soda: $0.00, Water: $5.99 ; Total Snacks Cost: $16.48 (BakedGoods: $8.49, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+Seat #: 3 {Total Drinks Cost: $20.98 (Beer:$14.99, Champagne: $0.00, Dairy: $0.00, Soda: $0.00, Water: $5.99 ; Total Snacks Cost: $16.48 (BakedGoods: $8.49, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+Row 3: {Total Drinks Cost: $71.93 (Beer:$44.97, Champagne: $0.00, Dairy: $0.00, Soda: $14.98, Water: $11.98 ; Total Snacks Cost: $48.94 (BakedGoods: $16.98, Candy: $0.00, Caviar: $0.00, Fruit: $31.96) }
+
+Row 4   
+Seat #: 0 {Total Drinks Cost: $0.00 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $0.00, Water: $0.00 ; Total Snacks Cost: $16.48 (BakedGoods: $8.49, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+Seat #: 1 {Total Drinks Cost: $5.99 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $0.00, Water: $5.99 ; Total Snacks Cost: $0.00 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $0.00) }
+Seat #: 2 {Total Drinks Cost: $7.49 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $7.49, Water: $0.00 ; Total Snacks Cost: $7.99 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+Seat #: 3 {Total Drinks Cost: $22.48 (Beer:$14.99, Champagne: $0.00, Dairy: $0.00, Soda: $7.49, Water: $0.00 ; Total Snacks Cost: $8.49 (BakedGoods: $8.49, Candy: $0.00, Caviar: $0.00, Fruit: $0.00) }
+Row 4: {Total Drinks Cost: $35.96 (Beer:$14.99, Champagne: $0.00, Dairy: $0.00, Soda: $14.98, Water: $5.99 ; Total Snacks Cost: $32.96 (BakedGoods: $16.98, Candy: $0.00, Caviar: $0.00, Fruit: $15.98) }
+
+Row 5   
+Seat #: 0 {Total Drinks Cost: $14.99 (Beer:$14.99, Champagne: $0.00, Dairy: $0.00, Soda: $0.00, Water: $0.00 ; Total Snacks Cost: $0.00 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $0.00) }
+Seat #: 1 {Total Drinks Cost: $5.99 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $0.00, Water: $5.99 ; Total Snacks Cost: $0.00 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $0.00) }
+Seat #: 2 {Total Drinks Cost: $13.48 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $7.49, Water: $5.99 ; Total Snacks Cost: $0.00 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $0.00) }
+Seat #: 3 {Total Drinks Cost: $13.48 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $7.49, Water: $5.99 ; Total Snacks Cost: $7.99 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+Row 5: {Total Drinks Cost: $47.94 (Beer:$14.99, Champagne: $0.00, Dairy: $0.00, Soda: $14.98, Water: $17.97 ; Total Snacks Cost: $7.99 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+
+Row 6   
+Seat #: 0 {Total Drinks Cost: $13.48 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $7.49, Water: $5.99 ; Total Snacks Cost: $16.48 (BakedGoods: $8.49, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+Seat #: 1 {Total Drinks Cost: $22.48 (Beer:$14.99, Champagne: $0.00, Dairy: $0.00, Soda: $7.49, Water: $0.00 ; Total Snacks Cost: $0.00 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $0.00) }
+Seat #: 2 {Total Drinks Cost: $13.48 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $7.49, Water: $5.99 ; Total Snacks Cost: $0.00 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $0.00) }
+Seat #: 3 {Total Drinks Cost: $13.48 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $7.49, Water: $5.99 ; Total Snacks Cost: $16.48 (BakedGoods: $8.49, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+Row 6: {Total Drinks Cost: $62.92 (Beer:$14.99, Champagne: $0.00, Dairy: $0.00, Soda: $29.96, Water: $17.97 ; Total Snacks Cost: $32.96 (BakedGoods: $16.98, Candy: $0.00, Caviar: $0.00, Fruit: $15.98) }
+
+Row 7   
+Seat #: 0 {Total Drinks Cost: $20.98 (Beer:$14.99, Champagne: $0.00, Dairy: $0.00, Soda: $0.00, Water: $5.99 ; Total Snacks Cost: $7.99 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+Seat #: 1 {Total Drinks Cost: $22.48 (Beer:$14.99, Champagne: $0.00, Dairy: $0.00, Soda: $7.49, Water: $0.00 ; Total Snacks Cost: $8.49 (BakedGoods: $8.49, Candy: $0.00, Caviar: $0.00, Fruit: $0.00) }
+Seat #: 2 {Total Drinks Cost: $22.48 (Beer:$14.99, Champagne: $0.00, Dairy: $0.00, Soda: $7.49, Water: $0.00 ; Total Snacks Cost: $7.99 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+Seat #: 3 {Total Drinks Cost: $0.00 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $0.00, Water: $0.00 ; Total Snacks Cost: $16.48 (BakedGoods: $8.49, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+Row 7: {Total Drinks Cost: $65.94 (Beer:$44.97, Champagne: $0.00, Dairy: $0.00, Soda: $14.98, Water: $5.99 ; Total Snacks Cost: $40.95 (BakedGoods: $16.98, Candy: $0.00, Caviar: $0.00, Fruit: $23.97) }
+
+Row 8   
+Seat #: 0 {Total Drinks Cost: $22.48 (Beer:$14.99, Champagne: $0.00, Dairy: $0.00, Soda: $7.49, Water: $0.00 ; Total Snacks Cost: $0.00 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $0.00) }
+Seat #: 1 {Total Drinks Cost: $5.99 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $0.00, Water: $5.99 ; Total Snacks Cost: $7.99 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+Seat #: 2 {Total Drinks Cost: $22.48 (Beer:$14.99, Champagne: $0.00, Dairy: $0.00, Soda: $7.49, Water: $0.00 ; Total Snacks Cost: $0.00 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $0.00) }
+Seat #: 3 {Total Drinks Cost: $5.99 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $0.00, Water: $5.99 ; Total Snacks Cost: $8.49 (BakedGoods: $8.49, Candy: $0.00, Caviar: $0.00, Fruit: $0.00) }
+Row 8: {Total Drinks Cost: $56.94 (Beer:$29.98, Champagne: $0.00, Dairy: $0.00, Soda: $14.98, Water: $11.98 ; Total Snacks Cost: $16.48 (BakedGoods: $8.49, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+
+Row 9   
+Seat #: 0 {Total Drinks Cost: $13.48 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $7.49, Water: $5.99 ; Total Snacks Cost: $0.00 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $0.00) }
+Seat #: 1 {Total Drinks Cost: $7.49 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $7.49, Water: $0.00 ; Total Snacks Cost: $7.99 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+Seat #: 2 {Total Drinks Cost: $14.99 (Beer:$14.99, Champagne: $0.00, Dairy: $0.00, Soda: $0.00, Water: $0.00 ; Total Snacks Cost: $8.49 (BakedGoods: $8.49, Candy: $0.00, Caviar: $0.00, Fruit: $0.00) }
+Seat #: 3 {Total Drinks Cost: $5.99 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $0.00, Water: $5.99 ; Total Snacks Cost: $7.99 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $7.99) }
+Row 9: {Total Drinks Cost: $41.95 (Beer:$14.99, Champagne: $0.00, Dairy: $0.00, Soda: $14.98, Water: $11.98 ; Total Snacks Cost: $24.47 (BakedGoods: $8.49, Candy: $0.00, Caviar: $0.00, Fruit: $15.98) }
+
+For Section: {Total Drink Cost: $530.42 (Beer:$254.83, Champagne: $0.00, Dairy: $0.00, Soda: $149.80, Water: $125.79 ; Total Snacks: $320.11 (BakedGoods: $144.33, Candy: $0.00, Caviar: $0.00, Fruit: $175.78) }
+
+
+FrontRow :
+Row 0   
+Seat #: 0 {Total Drinks Cost: $7.50 (Beer:$0.00, Champagne: $0.00, Dairy: $7.50, Soda: $0.00, Water: $0.00 ; Total Snacks Cost: $23.97 (BakedGoods: $0.00, Candy: $0.00, Caviar: $0.00, Fruit: $23.97) }
+Seat #: 1 {Total Drinks Cost: $950.93 (Beer:$44.97, Champagne: $899.97, Dairy: $0.00, Soda: $0.00, Water: $5.99 ; Total Snacks Cost: $1,383.43 (BakedGoods: $25.47, Candy: $0.00, Caviar: $1,349.97, Fruit: $7.99) }
+Seat #: 2 {Total Drinks Cost: $928.45 (Beer:$14.99, Champagne: $899.97, Dairy: $7.50, Soda: $0.00, Water: $5.99 ; Total Snacks Cost: $482.95 (BakedGoods: $16.98, Candy: $0.00, Caviar: $449.99, Fruit: $15.98) }
+Seat #: 3 {Total Drinks Cost: $907.47 (Beer:$0.00, Champagne: $899.97, Dairy: $7.50, Soda: $0.00, Water: $0.00 ; Total Snacks Cost: $457.98 (BakedGoods: $0.00, Candy: $0.00, Caviar: $449.99, Fruit: $7.99) }
+Row 0: {Total Drinks Cost: $2,794.35 (Beer:$59.96, Champagne: $2,699.91, Dairy: $22.50, Soda: $0.00, Water: $11.98 ; Total Snacks Cost: $2,348.33 (BakedGoods: $42.45, Candy: $0.00, Caviar: $2,249.95, Fruit: $55.93) }
+
+Row 1   
+Seat #: 0 {Total Drinks Cost: $22.49 (Beer:$14.99, Champagne: $0.00, Dairy: $7.50, Soda: $0.00, Water: $0.00 ; Total Snacks Cost: $490.94 (BakedGoods: $16.98, Candy: $0.00, Caviar: $449.99, Fruit: $23.97) }
+Seat #: 1 {Total Drinks Cost: $5.99 (Beer:$0.00, Champagne: $0.00, Dairy: $0.00, Soda: $0.00, Water: $5.99 ; Total Snacks Cost: $916.46 (BakedGoods: $8.49, Candy: $0.00, Caviar: $899.98, Fruit: $7.99) }
+Seat #: 2 {Total Drinks Cost: $20.99 (Beer:$0.00, Champagne: $0.00, Dairy: $15.00, Soda: $0.00, Water: $5.99 ; Total Snacks Cost: $907.97 (BakedGoods: $0.00, Candy: $0.00, Caviar: $899.98, Fruit: $7.99) }
+Seat #: 3 {Total Drinks Cost: $958.43 (Beer:$44.97, Champagne: $899.97, Dairy: $7.50, Soda: $0.00, Water: $5.99 ; Total Snacks Cost: $482.45 (BakedGoods: $8.49, Candy: $0.00, Caviar: $449.99, Fruit: $23.97) }
+Row 1: {Total Drinks Cost: $1,007.90 (Beer:$59.96, Champagne: $899.97, Dairy: $30.00, Soda: $0.00, Water: $17.97 ; Total Snacks Cost: $2,797.82 (BakedGoods: $33.96, Candy: $0.00, Caviar: $2,699.94, Fruit: $63.92) }
+
+Row 2   
+Seat #: 0 {Total Drinks Cost: $20.98 (Beer:$14.99, Champagne: $0.00, Dairy: $0.00, Soda: $0.00, Water: $5.99 ; Total Snacks Cost: $1,374.44 (BakedGoods: $8.49, Candy: $0.00, Caviar: $1,349.97, Fruit: $15.98) }
+Seat #: 1 {Total Drinks Cost: $314.98 (Beer:$14.99, Champagne: $299.99, Dairy: $0.00, Soda: $0.00, Water: $0.00 ; Total Snacks Cost: $1,365.95 (BakedGoods: $0.00, Candy: $0.00, Caviar: $1,349.97, Fruit: $15.98) }
+Seat #: 2 {Total Drinks Cost: $937.45 (Beer:$29.98, Champagne: $899.97, Dairy: $7.50, Soda: $0.00, Water: $0.00 ; Total Snacks Cost: $491.44 (BakedGoods: $25.47, Candy: $0.00, Caviar: $449.99, Fruit: $15.98) }
+Seat #: 3 {Total Drinks Cost: $44.98 (Beer:$29.98, Champagne: $0.00, Dairy: $15.00, Soda: $0.00, Water: $0.00 ; Total Snacks Cost: $32.96 (BakedGoods: $16.98, Candy: $0.00, Caviar: $0.00, Fruit: $15.98) }
+Row 2: {Total Drinks Cost: $1,318.39 (Beer:$89.94, Champagne: $1,199.96, Dairy: $22.50, Soda: $0.00, Water: $5.99 ; Total Snacks Cost: $3,264.79 (BakedGoods: $50.94, Candy: $0.00, Caviar: $3,149.93, Fruit: $63.92) }
+
+For Section: {Total Drink Cost: $5,120.64 (Beer:$209.86, Champagne: $4,799.84, Dairy: $75.00, Soda: $0.00, Water: $35.94 ; Total Snacks: $8,410.94 (BakedGoods: $127.35, Candy: $0.00, Caviar: $8,099.82, Fruit: $183.77) }
