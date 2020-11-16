@@ -1,3 +1,10 @@
+/*
+ * Assignment 12
+ * Chapter 12
+ *
+ * @author Zhuo Guan
+ * Implementing BackRow Class
+ */
 import Drink.*;
 import Snack.BakedGoods;
 import Snack.Candy;
@@ -10,19 +17,24 @@ public class BackRow {
     private final int AMOUNT_OF_ROWS_BACK_ROW = 10;
     private final int SEATS_PER_ROW = 4;
 
+    private ArrayList<Row> backRow = new ArrayList<>();
 
-    private ArrayList<Row> backRow= new ArrayList<>();
-
-    public BackRow(){
+    public BackRow() {
         setBackRow();
     }
 
-    public ArrayList<Row> returnBackRow(){
+    /**
+     * Returns all the rows in this section
+     * @return - rows in this section
+     */
+    public ArrayList<Row> returnBackRow() {
         return backRow;
     }
 
 
-
+    /**
+     * Adds rows to the section
+     */
     public void setBackRow() {
 
 
@@ -45,7 +57,6 @@ public class BackRow {
                 int caviarQuantity = (int) (Math.random() * 0);
                 int candyQuantity = (int) (Math.random() * 1);
                 int fruitQuantity = (int) (Math.random() * 2);
-
 
                 aSeat.addDrink(new Champagne(champagneQuantity));
                 aSeat.addDrink(new Beer(beerQuantity));

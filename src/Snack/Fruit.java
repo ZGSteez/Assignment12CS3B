@@ -6,5 +6,4 @@ public class Fruit extends Snack{
         setCost(7.99);
     }
 
-
 }

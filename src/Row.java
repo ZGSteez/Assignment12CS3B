@@ -1,3 +1,10 @@
+/*
+ * Assignment 12
+ * Chapter 12
+ *
+ * @author Zhuo Guan
+ * Implementing Row class
+ */
 import java.util.*;
 
 public class Row{

@@ -1,3 +1,10 @@
+/*
+ * Assignment 12
+ * Chapter 12
+ *
+ * @author Zhuo Guan
+ * Implementing FrontRow Superclass
+ */
 import Drink.*;
 import Snack.BakedGoods;
 import Snack.Candy;
@@ -17,12 +24,17 @@ public class FrontRow {
         setFrontRow();
     }
 
+    /**
+     * Returns all the rows in this section
+     * @return - rows in this section
+     */
     public ArrayList<Row> returnFrontRow(){
         return frontRow;
     }
 
-
-
+    /**
+     * Adds rows to the section
+     */
     public void setFrontRow() {
 
 
